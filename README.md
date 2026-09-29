@@ -6,7 +6,7 @@ This project helped me understand how Flutter handles dynamic lists and how to b
 
 ## 📱 Preview
 
-![Notes App Preview](preview/notes-app.png)
+![Flutter Notes App Preview](preview/Screenshot%20%28107%29.png)
 
 ## 🚀 What I Practiced
 
